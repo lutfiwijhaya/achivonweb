@@ -1,0 +1,342 @@
+<?php
+    return [
+        'navHome' => "Beranda",
+        'navHome1.1' => "Pesan Presiden & CEO",
+        'navHome1.2' => "Informasi",
+        'navHome1.3' => "Sejarah",
+        'navHome1.4' => "Lokasi",
+        'navHome1.5' => "Visi",
+        'navHome1.6' => "Misi",
+        'navHome1.7' => "Sumber",
+        'navHome1.8' => "Operasi Perangkat Lunak",
+        
+        'navBusiness' => "Bisnis",
+        'navBusiness1.1' => "Rekayasa",
+        'navBusiness1.2' => "Pengadaan",
+        'navBusiness1.3' => "Pembuatan",
+        'navBusiness1.4' => "Konstruksi",
+        'navBusiness1.5' => "Pemeliharaan",
+        'navBusiness2.1' => "Struktur baja",
+        'navBusiness2.2' => "Tangki",
+        'navBusiness2.3' => "Perpipaan",
+        'navBusiness2.4' => "Pemadam Kebakaran",
+        'navBusiness2.5' => "Cat",
+        'navBusiness2.6' => "Isolasi",
+        'navBusiness2.7' => "Peralatan Mekanik  ",
+
+        'navInfo' => "Informasi",
+        'navOrganisasi' => "Organisasi",
+        'navProject' => "Proyek",
+        'navRekrut' => "Perekrutan",
+        'navRekrut0' => "Pengumuman",
+        'navRekrut1' => "Daftar",
+        'navRekrut2' => "Edit Data",
+        'navKontak' => "Hubungi Kami",
+        
+        'mainPageInfo' => " PT. ACHIVON PRESTASI ABADI adalah kontraktor berpengalaman yang mengerjakan proyek nasional.<br>
+                            PT. ACHIVON PRESTASI ABADI yang beralamat di Karawaci Office Park Ruko Pinangsia No.35
+                            <br>Blok Excelis Lt.2 Lippo Karawaci Kel, Panunggangan Barat, Cibodas, Kota Tangerang
+                            .<br> PT. ACHIVON PRESTASI ABADI saat ini memiliki kualifikasi M1.",
+        
+        'mainPageHSE1' => "KOMITMEN HSE",
+        'mainPageHSE1.1' => " Ini adalah komitmen kami untuk mempertahankan dan mewujudkan penerapan sistem manajemen Kesehatan, 
+                            Keselamatan dan Lingkungan (HSE) di semua tingkatan layanan melalui verifikasi komitmen kami 
+                            dan melalui peningkatan sistem secara berkelanjutan.",
+        'mainPageHSE2' => "TUJUAN HSE",
+        'mainPageHSE2.1' => "Memberikan kontrol dan manajemen HSE proaktif terhadap setiap potensi kecelakaan, 
+                            insiden dan risiko pada dan terhadap personel dan properti selama proses kerja.",
+        'mainPageHSE3' => "KOMITMEN HSE",
+        'mainPageHSE3.1' => "pengakuan dan kepatuhan terhadap persyaratan, semua hukum dan standar yang berlaku pada layanan.",
+        'mainPageHSE3.2' => "mewujudkan organisasi HSE untuk melaksanakan HSE yang sesuai dan efektif manajemen pada layanan.",
+        'mainPageHSE3.3' => "menerapkan pengukuran yang diperlukan untuk mencegah dampak lingkungan.",
+        'mainPageHSE3.4' => "melakukan pelatihan HSE di semua tingkatan dan meningkatkan persepsi HSE sebagai faktor kunci melalui pendidikan dan program HSE.",
+        'mainPageHSE3.5' => "inspeksi untuk mendeteksi dan memperbaiki praktik dan kondisi yang tidak aman. mendorong dan memotivasi 
+                            untuk kinerja yang aman dengan saran dari anggota, koordinasi yang efektif dan/ atau berbagi pemberitahuan.",
+        'mainPageHSE3.6' => "menjaga dan memastikan catatan dan dokumen administrasi HSE untuk anggota dan bekerja setiap saat.",
+        'mainPageHSE3.7' => "masukan dan keluaran dari tinjauan manajemen dan implementasi yang berkelanjutan.",
+        'mainPageHSE4' => "Kami mengakui komitmen HSE ini sebagai prioritas tertinggi dan baik- baik saja
+                            menyadari komitmen sebagai tanggung jawab utama, elemen integral dari manajemen pada pengembangan berkelanjutan bisnis kami. 
+                            Kami berkomitmen untuk menerapkan sistem manajemen HSE kami yang berbeda untuk membangun 
+                            posisi kami sebagai pemimpin terkemuka dan pemain solusi terkemuka yang berdiri di atas 
+                            kontraktor umum kelas satu.",
+
+        'mainPageQuality1' => "KEBIJAKAN MUTU",
+        'mainPageQuality1.1' => "Ini adalah kebijakan kami untuk mewujudkan jasa konstruksi yang unggul 
+                                melalui perbaikan berkelanjutan dari sistem manajemen kualitas total.",
+        'mainPageQuality2' => "TUJUAN KUALITAS",
+        'mainPageQuality2.1' => "Menyediakan produk yang kompeten dan layanan istimewa untuk memenuhi persyaratan.",
+        'mainPageQuality3' => "KOMITMEN KUALITAS",
+        'mainPageQuality3.1' => "pengakuan dan kepatuhan persyaratan kualitas umum dan khusus pada layanan.",
+        'mainPageQuality3.2' => "mewujudkan organisasi mutu untuk melaksanakan manajemen mutu yang sesuai dan efektif pada layanan.
+                                kualifikasi dan sertifikasi untuk mencegah dan memperbaiki ketidaksesuaian.",
+        'mainPageQuality3.3' => "perencanaan, review dan verifikasi untuk mewujudkan produk yang berkompeten
+                                desain/ rekayasa, pembelian, konstruksi dan layanan.",
+        'mainPageQuality3.4' => "koordinasi pemrosesan tepat waktu dan pemberitahuan untuk 
+                                inspeksi dan pengujian yang diperlukan pada langkah- langkah tersebut.",
+        'mainPageQuality3.5' => "memastikan catatan dan dokumen kualitas yang jelas dan akurat 
+                                untuk pekerjaan dilakukan dengan benar.",
+        'mainPageQuality3.6' => "masukan dan keluaran dari tinjauan manajemen dan implementasi yang berkelanjutan.",
+        'mainPageQuality3.7' => "Kami, direktur operasi dan semua karyawan, berkomitmen untuk menyadari kebijakan mutu ini, 
+                                untuk mencapai sasaran mutu dan menerapkan sistem manajemen mutu yang berbeda untuk membangun 
+                                posisi kami sebagai pemimpin terkemuka dan pemain solusi terkemuka yang berdiri di atas yang pertama. -tingkat kontraktor umum.",
+        'footer1' => "Lokasi",
+        'footer2' => "PT.Achivon Prestasi Abadi's © COPYRIGHT 2023. ALL RIGHTS RESERVED.",
+        
+        // CEO Message
+        'ceo1' => "Pesan Presiden & CEO",
+        'ceo2' => "Kami, PT. Achivon Prestasi Abadi ('ACV'), didirikan pada tanggal 9 Juli 2019 di 
+                    Indonesia sebagai kontraktor umum, yang memberikan layanan istimewa dan transparan 
+                    untuk bidang teknik, pengadaan dan seluruh kegiatan konstruksi meliputi sipil, 
+                    arsitektur, mekanikal, elektrikal dan instrumen, bisnis konstruksi lainnya seperti 
+                    pengecatan, isolasi, HVAC, keselamatan dalam/luar ruangan/pemadam kebakaran 
+                    berdasarkan filosofi manajemen.",
+        'ceo3' => "1. Layanan istimewa berdasarkan manajemen mutu dan keselamatan yang sistematis.",
+        'ceo4' => "2. Tindakan akurat tepat waktu berdasarkan pengenalan secara detail.",
+        'ceo5' => "3. Kebahagiaan pelanggan dan anggota.",
+        'ceo6' => "4. Transparansi dan kejujuran.",
+        'ceo7' => "5. Konsistensi perkataan dan tindakan.",
+        'ceo8' => "6. Verifikasi dan verifikasi lagi kemudian pastikan layanannya.",
+        'ceo9' => "7. Pemrosesan pekerjaan yang luar biasa dengan rencana dan ukuran ideal yang paling berharga.",
+        'ceo10' => "Kami, ACV, dapat memastikan untuk dipercaya oleh semua mitra dan pelanggan dengan 
+                    menghasilkan kemampuan eksekusi kami dari perencanaan, administrasi lapangan yang 
+                    terorganisir dengan baik, operasi dan pengiriman yang efektif dalam manajemen proyek 
+                    dan aktivitas terkaitnya. Kami tanpa henti mendorong untuk meningkatkan kualitas 
+                    orang-orang kami untuk memberikan hasil yang paling sukses melalui penyelarasan 
+                    proses dan sistem manajemen terintegrasi kami dengan aman untuk mencapai tujuan 
+                    mitra dan pelanggan kami di Indonesia.",
+        'ceo11' => "ACV pasti secara proaktif berkomitmen untuk memenuhi dan melaksanakan semua 
+                    tanggung jawab yang tercakup di area bisnis terhadap pertumbuhan klien dan peluang 
+                    baru kami.",
+        'ceo12' => "Selain itu, kami memiliki sumber daya kerja dan pengetahuan terkemuka untuk 
+                    melakukan aktivitas bisnis kami saja. Kami dengan jelas mengakui apa yang diharapkan 
+                    mitra dan pelanggan kami dan apa yang kami berikan dengan nilai kami pada layanan, 
+                    yang berasal dari manusia, keselamatan, kualitas, etika, keberlanjutan, dan budaya 
+                    perusahaan yang diwakili oleh kepercayaan, kolaborasi, rasa hormat, integritas, 
+                    dan inovasi.",
+        'ceo13' => "ACV sedang mempersiapkan masa depan yang lebih besar dan lebih cerah untuk menjadi 
+                    kontraktor umum kelas satu di Indonesia sebagai pemain terkemuka dan solusi 
+                    terkemuka melalui peningkatan kualitatif dengan memperluas pasar untuk mesin 
+                    pertumbuhan baru.",
+
+        // Location
+        'location1' => "Alamat",
+        'location1.1' => "Karawaci Office Park Blok Excelis No.35, Lippo Karawaci, Tangerang, Banten, 15139, Indonesia.",
+        'location2' => "Jalan untuk mengunjungi Kantor",
+        'location2.1' => "Jakarta <-> Gerbang Tol Tomang <-> Gerbang Tol Karawaci 2 <-> Office PT. Achivon Prestasi Abadi.",
+        'location3' => "Jarak (Km)",
+        'location3.1' => "Dari Jakarta (Pusat) : 35Km",
+        'location3.2' => "Dari Gerbang Tol Tomang : 23Km",
+        'location4' => "Jarak (waktu berkendara)",
+        'location4.1' => "Dari Jakarta (Center) : 60~80 minutes",
+        'location4.2' => "Dari Gerbang Tol Tomang : 25~40 minutes",
+
+        // vision
+        'visi' => "Pemimpin terkemuka dan pemain solusi terkemuka berdiri di atas kontraktor umum kelas satu.",
+        
+        // mission
+        'misi' => "Untuk membangun kebahagiaan bagi semua anggota internal, mitra, klien, melalui harmonisasi yang sangat sesuai dengan tanggung jawab sosial dan lingkungan yang ditingkatkan",
+        
+        //OrganizationPage
+        '' => "",
+        //CareerPage
+        'section1' => "1. Informasi data diri",
+        'labelPosition' => "Posisi yang ingin diamar",
+        'placePosition' => "pilih posisi",
+        'labelDiscipline' => "Disiplin",
+        'placeDiscipline' => "Pilih Disiplin",
+        'labelSallary' => "Estimasi gaji",
+        'placeSallary' => "masukan estimasi gaji yang anda harapkan",
+        'labelPhoto' => "Pilih Foto",
+        'labelNIK' => "No. KTP",
+        'placeNIK' => "Masukan NIK KTP",
+        'labelName' => "Nama Lengkap",
+        'placeName' => "Masukan Nama Lengkap",
+        'labelBirthPlace' => "Tempat Lahir",
+        'placeBirthPlace' => "Masukan Kota Kelahiran",
+        'labelBirthDay' => "Tanggal Lahir",
+        'placeBirthDay' => "Pilih tanggal lahir",
+        'labelNoHP' => "No. HP",
+        'placeNoHP' => "Masukan No. HP",
+        'labelEmail' => "e-mail",
+        'placeEmail' => "example@mail.com",
+        'labelBPJSSehat' => "No. BPJS Kesehatan",
+        'placeBPJSSehat' => "Masukan No. BPJS Kesehatan",
+        'labelBPJSKerja' => "No. BPJS Ketenagakerjaan",
+        'placeBPJSKerja' => "Masukan No. BPJS Ketenagakerjaan",
+        'labelNPWP' => "No. NPWP",
+        'placeNPWP' => "Masukan No. NPWP",
+        'labelGender' => "Jenis Kelamin",
+        'placeGender1' => "Pria",
+        'placeGender2' => "Wanita",
+        'labelReligion' => "Agama",
+        'placeReligion' => "Pilih Agama Anda",
+        'labelMarital' => "Status Pernikahan",
+        'placeMarital1' => "Lajang",
+        'placeMarital2' => "Sudah Menikah",
+        'labelHome' => "Alamat Rumah",
+        'labelHomeCountry' => "Negara",
+        'placeHomeCountry' => "Pilih Negara",
+        'labelHomeProvince' => "Provinsi",
+        'placeHomeProvince' => "Pilih Provinsi",
+        'labelHomeCity' => "Kota/Kabupaten",
+        'placeHomeCity' => "Pilih Kota/Kabupaten",
+        'labelHomeKecamatan' => "Kecamatan",
+        'placeHomeKecamatan' => "Masukan Nama Kecamatan",
+        'labelHomeDesa' => "Kelurahan/Desa",
+        'placeHomeDesa' => "Masukan Nama Kelurahan/Desa",
+        'labelHomeRT' => "RT",
+        'placeHomeRT' => "Masukan RT",
+        'labelHomeRW' => "RW",
+        'placeHomeRW' => "Masukan RW",
+        'labelHomePostCode' => "Kode Pos",
+        'placeHomePostCode' => "Masukan Kode pos",
+        'labelHomeFull' => "Alamat/Nama Jalan",
+        'placeHomeFull' => "Masukan No. Rumah/Nama Jalan",
+        'labelchechbox' => "Sama dengan alamat rumah",
+        'labelCurrent' => "Alamat Tempat Tinggal Saat ini",
+        'labelCurrentCountry' => "Negara",
+        'placeCurrentCountry' => "Pilih Negara",
+        'labelCurrentProvince' => "Provinsi",
+        'placeCurrentProvince' => "Pilih Provinsi",
+        'labelCurrentCity' => "Kota/Kabupaten",
+        'placeCurrentCity' => "Pilih Kota/Kabupaten",
+        'labelCurrentKecamatan' => "Kecamatan",
+        'placeCurrentKecamatan' => "Masukan Nama Kecamatan",
+        'labelCurrentDesa' => "Kelurahan/Desa",
+        'placeCurrentDesa' => "Masukan Nama Kelurahan/Desa",
+        'labelCurrentRT' => "RT",
+        'placeCurrentRT' => "Masukan RT",
+        'labelCurrentRW' => "RW",
+        'placeCurrentRW' => "Masukan RW",
+        'labelCurrentPostCode' => "Kode Pos",
+        'placeCurrentPostCode' => "Masukan Kode pos",
+        'labelCurrentFull' => "Alamat/Nama Jalan",
+        'placeCurrentFull' => "Masukan No. Rumah/Nama Jalan",
+
+        'section2' => "2. Riwayat Pendidikan",
+        'modalDetail' => "Detail Riwayat Pendidikan",
+        'modalUpdate' => "Ubah Riwayat Pendidikan",
+        'modalDelete' => "Hapus Riwayat Pendidikan",
+        'modalDeleteContent' => "Apakah kamu yakin ingin menghapus data ini ?",
+        'labelSchoolName' => "Nama Sekolah",
+        'placeSchoolName' => "Masukan Nama Sekolah",
+        'labelSchoolGraduation' => "Tahun kelulusan",
+        'placeSchoolGraduation' => "Pilih Tahun Lulus",
+        'labelSchoolLocation' => "Alamat Sekolah",
+        'placeSchoolLocation' => "Masukan Kota alamat sekolah",
+        'labelSchoolMajor' => "Jurusan/Bidang Keahlian",
+        'placeSchoolMajor' => "Masukan Jurusan/Bidang Keahlian",
+        'buttonAcademic' => "+ Data Riwayat Pendidikan",
+
+        'section3'=> "3. Status keluarga",
+        'modalDetailFamily' => "Detail Status Keluraga",
+        'modalUpdateFamily' => "Ubah Status Keluarga",
+        'modalDeleteFamily' => "Hapus Status keluarga",
+        'labelFamilyName' => "Nama Anggota Keluarga",
+        'placeFamilyName' => "Masukan Nama anggota keluarga",
+        'labelFamilyRelation' => "hubungan keluarga",
+        'placeFamilyRelation1' => "pilih hubungan",
+        'placeFamilyRelation2' => "Kakek",
+        'placeFamilyRelation3' => "Nenek",
+        'placeFamilyRelation4' => "Ayah",
+        'placeFamilyRelation5' => "Ibu",
+        'placeFamilyRelation6' => "Suami",
+        'placeFamilyRelation7' => "Istri",
+        'placeFamilyRelation8' => "Anak",
+        'placeFamilyRelation8' => "Kakak",
+        'placeFamilyRelation9' => "Adik",
+        'labelFamilyBirthday' => "tanggal lahir",
+        'placeFamilyBirthday' => "pilih tanggal lahir",
+        'labelFamilyNoHP' => "No. HP",
+        'placeFamilyNoHP' => "Masukan no. hp",
+        'labelFamilyCohabit' => "Tinggal bersama/tidak",
+        'placeFamilyCohabit1' => "Ya",
+        'placeFamilyCohabit2' => "Tidak",
+        'buttonFamily' => "+ Data Keluarga",
+
+        'section4'=> "4. Sertifikat keahlian",
+        'modalDetailCertificate' => "Detail Data Sertifikat",
+        'modalUpdateCertificate' => "Ubah Data Sertifikat",
+        'modalDeleteCertificate' => "Hapus Data Sertifikat",
+        'labelCertificateName' => "Nama sertifikat",
+        'placeCertificateName' => "Masukan nama sertifikat",
+        'labelCertificateDate' => "Tanggal diakuisisi",
+        'placeCertificateDate' => "masukan tanggal peraihan",
+        'labelCertificateAuthor' => "Nama Badan Penyelenggara",
+        'placeCertificateAuthor' => "Masukan Nama Badan Penyelenggara",
+        'labelCertificateNo' => "No. Sertifikat",
+        'placeCertificateNo' => "Masukan No. Sertifikat",
+        'labelCertificateLocation' => "Lokasi badan penyelenggara",
+        'placeCertificateLocation' => "Masukan Kota alamat penyelenggara",
+        'buttonCertificate' => "+ Data Sertifikat",
+
+        'section5'=> "5. Ringkasan Status Karir",
+        'modalDetailCareer' => "Detail status karir",
+        'modalUpdateCareer' => "Ubah status karir",
+        'modalDeleteCareer' => "Hapus status karir",
+        'labelCareerName' => "Nama Perusahaan",
+        'placeCareerName' => "Masukan Nama Perusahaan",
+        'labelCareerPeriodeFrom' => "Periode (dari)",
+        'placeCareerPeriodeFrom' => "pilih Periode dari",
+        'labelCareerPeriodeTo' => "Periode (sampai)",
+        'placeCareerPeriodeTo' => "pilih periode sampai",
+        'labelCareerLength' => "Masa jabatan",
+        'labelCareerPosition' => "Posisi Pekerjaan",
+        'placeCareerPosition' => "Masukan Posisi Pekerjaan",
+        'buttonCareer' => "+ Data Riwayat Karir",
+
+        'section6' => "6. Pengenalan Diri",
+        'labelMotivation1' => "Motivasi untuk melamar",
+        'placeMotivation1' => "Masukan alasan/motivasi anda untuk bergabung dengan kami",
+        'labelMotivation2' => "Lainnya(kepribadia/latar belakang keluarga)",
+        'placeMotivation2' => "Perkenalkan diri anda",
+
+        'section7' => "7. SKCK",
+        'labelSKCK' => "Pilih Foto/Dokumen SKCK",
+        'labelDocument' => "Pilih Dokumen",
+        'placeSKCK' => "Pilih File",
+        'buttonEditSave' => "Edit & Simpan",
+        
+        //recruitmentPage
+        'buttonRecruitment' => "Simpan",
+        
+        'joinWord' => "Silahkan klik link dibawah ini jika ingin bergabung dan daftarkan data diri anda",
+        'joinLink' => "Daftar disini",
+        'editWord' => "Sudah mendaftar ?, masukan No KTP anda untuk mengedit data diri anda",
+        'editButton' => "Edit",
+        'changeButton' => "Simpan perubahan",
+        'closeButton' => "Tutup",
+        'deleteButton' => "Hapus",
+        'aksi' => "Aksi",
+        
+        //ContactusPage
+        'labelName' => "Nama",
+        'placeName' => "Masukan Nama Anda",
+        'labelEmail' => "email",
+        'placeEmail' => "Masukan email anda",
+        'labelSubject' => "Subjek",
+        'placeSubject' => "Masukan subjek pesan",
+        'labelMail' => "Pesan",
+        'placeMail' => "isi Pesan",
+        'buttonSend' => "Kirim",
+        'successMail' => "email has been sent!",
+        'failedMail' => "sorry, something went wrong, can't send message",
+        
+        // AnnouncementPage
+        'jobVacancies' => "Lowongan Pekerjaan",
+        'jobVacancies1' => "Nama Pekerjaan",
+        'jobVacancies2' => "Spesialisasi",
+        'jobVacancies2.1' => "Pilih Spesialisasi",
+        'jobVacancies3' => "Lokasi Perkerjaan",
+        'jobVacancies3.1' => "Pilih Lokasi Pekerjaan",
+        'jobVacancies4' => "Pengalaman",
+        'jobVacancies5' => "Sortir",
+        'jobVacancies5' => "Pilih Sortir",
+        'jobVacancies6' => "Detil",
+        'jobVacancies7' => "Saring",
+        'jobVacancies8' => "Batal Saring",
+        'jobVacancies9' => "Persyaratan",
+        'jobVacancies10' => "Deskripsi Pekerjaan",
+       
+    ];
+?>
